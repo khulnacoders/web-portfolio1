@@ -1,0 +1,43 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.my-name{
+    color: orange;
+    font-size: 30px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+section{
+    height: 500px;
+    background-image:url(images/top-banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+
+}
+img{
+    width: 100%;
+    margin-top: -150px;
+    padding: 20px;
+    
+    
+}
+a{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 30px;
+    font-weight: 700;
+
+
+}
+a:hover{
+    background-color: aliceblue;
+    color: black;
+    
+}
